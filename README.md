@@ -19,6 +19,9 @@ You need to place these files in the "./data" directory.
 
 ### Make resources for mnist digits
 ```
-node ./minst_dl.js
+node ./minst_dl.js --count <range size>
 ```
 mnist digits resources will be created in the "./digits" directory
+
+###### count  
+Number of images range size from 1 to 60 000, default 60 000

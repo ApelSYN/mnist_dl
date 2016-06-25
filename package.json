@@ -1,0 +1,24 @@
+{
+  "name": "mnist_dl",
+  "version": "1.0.0",
+  "description": "MNIST Digits data loader",
+  "main": "mnist_dl.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ApelSYN/mnist_dl.git"
+  },
+  "keywords": [
+    "mnist"
+  ],
+  "author": "Oleg Cherniy <oleg.cherniy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ApelSYN/mnist_dl/issues"
+  },
+  "homepage": "https://github.com/ApelSYN/mnist_dl",
+  "dependencies": {
+    "co": "^4.6.0",
+    "q": "^1.4.1"
+  },
+  "engine": "node >= 0.6.0"
+}

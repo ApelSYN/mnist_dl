@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ApelSYN/mnist_dl",
   "dependencies": {
     "co": "^4.6.0",
+    "optimist": "^0.6.1",
     "q": "^1.4.1"
   },
   "engine": "node >= 0.6.0"
